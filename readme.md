@@ -1,4 +1,4 @@
-## API of Trello Clone developed in django and django rest framework for learning purposes
+## APIs of Trello Clone developed in django and django rest framework for learning purposes
 ----
 
 to install dependencies
@@ -12,7 +12,7 @@ to start server:
    
 
 ----
-##APIS
+## APIS
 > POST auth/login
    
     {
@@ -91,3 +91,9 @@ to start server:
         "CardID": 1,
         "Url": "http://xyz.com"
     }
+    
+----
+## next steps
+* develop frontend in react
+* dockerize
+
