@@ -7,7 +7,7 @@ to install dependencies
 
 to start server:
 
-    python manage.py runserver
+    python3 manage.py runserver
 
    
 
